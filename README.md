@@ -18,17 +18,10 @@ In This project i create a Simple calculate the area and circumference of a circ
    cd fgo24-go-introduction
    ```
 
-3. Install dependencies:
+3. Run the program
    ```bash
-   npm install
+   go run main.go
    ```
-
-4. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and visit `http://localhost:5173` (or the port shown in the terminal).
 
 ## How to Contribute
 Pull requests are welcome! For major changes, please open an issue first to discuss your proposed changes. Ensure tests are updated as needed.
